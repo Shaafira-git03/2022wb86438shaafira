@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello from 2022WB86438");
+        System.out.println("Hello from continuous integration is working");
     }
 }
